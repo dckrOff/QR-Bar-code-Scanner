@@ -7,4 +7,4 @@ Scanning QR/Bar (and other formats) code using MLkit by Google
 
 # Screenshots
 
-- <img src="https://user-images.githubusercontent.com/92970686/184883917-63869fde-cebc-45f9-bb2d-a8ee004e8286.jpg" height="400" />
+![image](https://user-images.githubusercontent.com/92970686/192287009-7296c3ad-0a0f-4334-9ba3-e7cc055f6063.png)
